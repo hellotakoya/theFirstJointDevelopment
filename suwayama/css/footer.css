@@ -1,0 +1,18 @@
+.footer{
+  background-color: #4D4D4D;
+}
+
+#linkTo{
+  /*background-image: url("../images/fire.jpg");*/
+  height: auto;
+  width: 100%;
+  padding-top: 60px;
+  text-align: center;
+}
+
+#linkTo span a{
+  color: #fff;
+  font-size: 24px;
+  margin-right: 40px;
+  text-decoration: none;
+}
